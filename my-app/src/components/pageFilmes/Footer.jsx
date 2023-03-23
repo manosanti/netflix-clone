@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";
 function Footer(){
     return(
         <footer>
-            <p>Developed by <span> <FaGithub /> Pedro H.</span></p> <br/>
+            <p>Developed by <span> <FaGithub /> <a href='https://github.com/manosanti'>Lucas Santiago.</a></span></p> <br/>
             Direitos de imagem para Netflix <br/>
             Dados pegos do site Themoviedb.org
 
